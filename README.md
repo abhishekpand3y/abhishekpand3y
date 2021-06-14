@@ -4,7 +4,7 @@
 - You can expect below mentioned stuffs from me:
     - Python projects to learn and sharp python skills.
     - Develop vulnerable web projects, understand the code or configuration behind the vulnerablity and then fix them.
-    - make insecure docker images and then fix them.
+    - Make insecure docker images and then fix them.
 
 <!---
 abhishekpand3y/abhishekpand3y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
