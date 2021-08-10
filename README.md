@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Pandey
-- Security Engineer with around 6 years of experience in information security.
+- Security Engineer with around 6 plus years of experience in information security.
 - Skilled in Web Security, DevSecOps, Infra Security, Docker and Kubernetes Security.
 - You can expect below mentioned stuffs from me:
     - Python projects to learn and sharp python skills.
